@@ -1,0 +1,27 @@
+.one{
+  border: 0px;
+  color: black;
+}
+body{
+  background-image: url("border.jpg");
+  background-repeat: no-repeat;
+
+}
+
+
+#two{
+  height: auto;
+  width: auto;
+  margin: 1px 0px 0px;
+}
+.four{
+  background: #2A6DB7;
+  padding: 12px;
+  color: #FFFFFF;
+  height: 100px;
+  width: 300px;
+  border:4px solid #2A6DB7;
+  border-left-width: 0px;
+
+  border-width: thin;
+}
